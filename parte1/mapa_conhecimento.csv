@@ -1,0 +1,36 @@
+Sintoma 1,Sintoma 2,Doença Associada
+dor no peito,aperto no tórax,Infarto do Miocárdio
+dor no peito,braço esquerdo,Infarto do Miocárdio
+suor frio,aperto no tórax,Infarto do Miocárdio
+suor frio,dor no peito,Infarto do Miocárdio
+aperto no tórax,irradia para o braço,Infarto do Miocárdio
+dor no peito,dor na mandíbula,Infarto do Miocárdio
+náusea,dor no peito,Infarto do Miocárdio
+dor no peito,esforço físico,Angina
+pressão no peito,esforço físico,Angina
+dor no peito,subir escadas,Angina
+aperto no peito,ao caminhar,Angina
+cansaço constante,fadiga,Insuficiência Cardíaca
+cansaço constante,mesmo depois de descansar,Insuficiência Cardíaca
+falta de ar,tornozelos inchados,Insuficiência Cardíaca
+falta de ar,inchaço nas pernas,Insuficiência Cardíaca
+dificuldade para respirar,tosse seca,Insuficiência Cardíaca
+tosse seca,travesseiros altos,Insuficiência Cardíaca
+dificuldade para respirar,deitado,Insuficiência Cardíaca
+coração disparado,palpitações,Arritmia
+coração disparado,tontura,Arritmia
+tontura,quase desmaiei,Arritmia
+coração disparado,quase desmaiei,Arritmia
+batimentos irregulares,palpitações,Arritmia
+palpitações,desmaio,Arritmia
+dor de cabeça forte,pressão alta,Hipertensão
+tontura,visão turva,Hipertensão
+zumbido no ouvido,pressão alta,Hipertensão
+dor de cabeça forte,visão turva,Hipertensão
+dor na panturrilha,ao caminhar,Doença Arterial Periférica
+pernas frias,formigamento,Doença Arterial Periférica
+dor na perna,melhora quando paro,Doença Arterial Periférica
+febre,piora ao respirar,Pericardite
+febre,dor no peito,Pericardite
+dor no peito,piora ao respirar,Pericardite
+dor no peito,piora deitado,Pericardite

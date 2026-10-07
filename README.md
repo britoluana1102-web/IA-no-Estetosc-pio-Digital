@@ -9,7 +9,7 @@ Projeto acadêmico da FIAP – curso de Inteligência Artificial.
 | _Luana Brito da Silva_ | _566632_ |
 
 ## Vídeo de demonstração
-Link (YouTube, não listado): _colar aqui o link_
+Link (YouTube, não listado): _(https://youtu.be/daRanwil8aw)_
 
 ## Sobre o projeto
 Nesta fase simulamos um sistema simples de apoio ao diagnóstico, em duas partes:
